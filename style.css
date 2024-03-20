@@ -24,6 +24,22 @@
         display: none;
     }
 
+    .arrow-up .fa-whatsapp {
+        display: none;
+    }
+
+    .arrow-up .fa-instagram {
+        display: none;
+    }
+
+    .arrow-up .fa-facebook {
+        display: none;
+    }
+
+    #sub {
+        display: none;
+    }
+
     .arrow-up .fa-tiktok {
         display: none;
     }
